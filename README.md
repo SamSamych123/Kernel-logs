@@ -41,4 +41,8 @@ sudo nano /var/log/kernel-logs-all-sessions.log
 
 
 # Author
-Sam Samych or the Shadow
+Sam Samych or the ITeny
+
+
+# Gratitude
+Thanks to everyone who supported the project!
